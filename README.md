@@ -8,7 +8,7 @@ The code refers to https://github.com/irasin/Pytorch_WCT and makes some adjustme
 
 
 
-Useage:
+Usage:
 
 python main.py
 
