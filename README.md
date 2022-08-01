@@ -1,5 +1,5 @@
 # pytorch_wct
-A simple and unofficial implement of paper universal Style Transfer via Feature Transforms using pytorch.\
+A simple and unofficial implement of paper universal Style Transfer via Feature Transforms using pytorch.
 
 Original torch implementation from the author can be found in https://github.com/Yijunmaverick/UniversalStyleTransfer.
 
